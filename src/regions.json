@@ -1,0 +1,50 @@
+{
+    "regions": [
+      {
+        "name": "Norte",
+        "average_temperature": 30.5,
+        "temperatures": {
+          "morning": 28.0,
+          "afternoon": 35.0,
+          "night": 26.5
+        }
+      },
+      {
+        "name": "Nordeste",
+        "average_temperature": 32.0,
+        "temperatures": {
+          "morning": 29.5,
+          "afternoon": 36.0,
+          "night": 27.0
+        }
+      },
+      {
+        "name": "Centro-Oeste",
+        "average_temperature": 25.5,
+        "temperatures": {
+          "morning": 22.0,
+          "afternoon": 30.0,
+          "night": 24.5
+        }
+      },
+      {
+        "name": "Sudeste",
+        "average_temperature": 23.0,
+        "temperatures": {
+          "morning": 20.0,
+          "afternoon": 28.0,
+          "night": 21.0
+        }
+      },
+      {
+        "name": "Sul",
+        "average_temperature": 18.0,
+        "temperatures": {
+          "morning": 15.0,
+          "afternoon": 22.0,
+          "night": 16.0
+        }
+      }
+    ]
+  }
+  
